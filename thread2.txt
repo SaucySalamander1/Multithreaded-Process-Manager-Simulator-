@@ -1,0 +1,4 @@
+sleep 50
+fork 1
+sleep 100
+kill 3

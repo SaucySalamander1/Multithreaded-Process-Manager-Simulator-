@@ -1,0 +1,4 @@
+sleep 150
+fork 3
+sleep 100
+wait 3 -1
